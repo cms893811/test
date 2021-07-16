@@ -11,6 +11,6 @@ class BasicCar {
         console.log('Stop!');
     }
     defend() {
-        
+        console.log('Defend!');
     }
 }

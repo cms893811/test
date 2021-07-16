@@ -7,4 +7,10 @@ class BasicCar {
     run() {
         console.log('Running...');
     }
+    stop() {
+        console.log('Stop!');
+    }
+    defend() {
+        
+    }
 }
